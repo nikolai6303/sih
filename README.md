@@ -1,5 +1,5 @@
 # sih
-web-app that help in planning tour.
-*Tecnology used:-*
+web-app that help in planning tour.</br>
+**Tecnology used:-**
  * Meteor
  * react
