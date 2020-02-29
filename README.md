@@ -1,5 +1,5 @@
-## SIH
+# SIH
 web-app that help in planning tour.</br>
-# Technology used:-
+## Technology used:-
  * Meteor
  * react
